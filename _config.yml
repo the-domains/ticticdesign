@@ -1,6 +1,6 @@
 name: TicTicDesign
 favicon: null
-layout_spectrum: 0.76367
+layout_spectrum: 1
 typography_spectrum: 0.49563
 title: TicTicDesign
 cta:
@@ -22,8 +22,8 @@ color:
     - '#999999'
     - '#ebebeb'
     - '#981a24'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 1
   saturation: 1
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 purpose: []
